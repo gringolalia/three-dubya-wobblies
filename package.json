@@ -5,7 +5,7 @@
   "author": "gringolalia@gmail.com <gringolalia@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "dev": "node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "build": "node build/build.js",
     "heroku-postbuild": "webpack --config webpack.prod.js"
