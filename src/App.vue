@@ -2,7 +2,7 @@
 #app
 	.w3-bar.w3-blue-grey.w3-large.w3-padding-24
 		a.w3-bar-item.w3-button.w3-hover-black(style="font-size: 21px;")
-			i.fas.fa-chess.fa-2x.w3-margin-right
+			i.fas.fa-sun.fa-2x.w3-margin-right
 			| Engenho Novo Versão Xadrez
 		a.w3-bar-item.w3-button.w3-hover-black.w3-right.w3-margin-right San Pavlov
 		a.w3-bar-item.w3-button.w3-hover-black.w3-right.w3-margin-right Ubatuba
